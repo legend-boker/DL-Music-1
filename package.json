@@ -2,9 +2,9 @@
     "name": "Test",
     "description": "Test",
     "version": "2.0.0",
-    "main": "DL.js",
+    "main": "dl.js",
     "scripts": {
-      "start": "node DL.js"
+      "start": "node dl.js"
     },
     "repository": {
       "type": "git",
