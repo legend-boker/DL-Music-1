@@ -1,1 +1,1 @@
-worker: node DL.js
+worker: node dl.js
